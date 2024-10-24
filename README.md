@@ -36,4 +36,4 @@
 
 L> ⚠️ [!WARNING]
 >
-> - Kalau error saat login, ngerjain tugas atau main game, itu karena server blum rusak, bukan error alatnya, biarkan saja nanti akan kembali berfungsi setelah errornya hilang.
+> - Untuk memastikan semua perintah berjalan dengan lancar, coba perbarui `query_id` atau `user` setiap 24jam.
