@@ -15,7 +15,7 @@
 - langkah 1: `install git`
 - langkah 2: `install nodejs`
 - langkah 3: `git clone https://github.com/Rextouin-R/boinkers/`
-- langkah 4:  ,Buka file `cd blum` install moduls `npm install` lalu `npm install luxon`
+- langkah 4:  ,Buka file `cd boinkers` install moduls `npm install` lalu `npm install luxon`
 - langkah 5:  ,Lakukan untuk mengisian `user` atau `query_id` di `data/boinkers.txt`
 
 ## 💾 Cara menambahkan data akun
