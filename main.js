@@ -3,6 +3,7 @@ const path = require('path');
 const axios = require('axios');
 const colors = require('colors');
 const readline = require('readline');
+const printBanner = require("./config/banner");
 const { DateTime } = require('luxon');
 
 class Boink {
@@ -451,6 +452,7 @@ class Boink {
     }
 }
 
+printBanner();
 const boink = new Boink();
 boink.main().catch(err => {
     boink.log(err.message, 'error');
