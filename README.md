@@ -26,7 +26,6 @@
 
 - [boinkers.txt](data/boinkers.txt) : berisi daftar userakun `query_id` setiap baris berhubungan dengan satu akun
 - [proxy.txt](data/proxy.txt) :  berisi daftar proxy, proxy di setiap baris akan sesuai dengan akun di baris tersebut di file pengguna.txt di atas, biarkan kosong jika tidak ada proxy yang digunakan
-- [token.json](src/data/token.json) : berisi daftar token yang dihasilkan dari `user` atau `query_id` Token akan dibuat secara otomatis saat Anda menjalankan alat ini
 
 ## >\_ Perintah dan fungsi 
 
